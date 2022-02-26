@@ -1,2 +1,2 @@
 # Music-App
-(Music App)[https://songsss.netlify.app]
+[Music App](https://songsss.netlify.app)
